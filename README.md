@@ -3,7 +3,8 @@
 A simple and responsive web application that allows users to search and view images using an API.
 
 ---
-
+LIVE DEMO
+https://sasivarun-24.github.io/image-search-app-/
 
 ---
 
