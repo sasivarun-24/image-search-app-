@@ -24,9 +24,6 @@ A simple and responsive web application that allows users to search for images u
 
 ---
 
-## 📸 Demo
-
-(Add screenshot here later)
 
 ---
 
