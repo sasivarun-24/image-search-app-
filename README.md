@@ -4,14 +4,13 @@ A simple and responsive web application that allows users to search and view ima
 
 ---
 
-## 🔗 Live Demo
-(Add link later if deployed)
 
 ---
 
 ## 📸 Screenshot
+<img width="1600" height="873" alt="image" src="https://github.com/user-attachments/assets/1564bb0b-8ca4-4882-9e15-64a0de1d0591" />
 
-(Add screenshot here)
+
 
 ---
 
